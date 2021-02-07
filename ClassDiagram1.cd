@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Genome">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAACAAACAAQAAAAAAAgAQAAAACAAAEABAIA=</HashCode>
+      <FileName>Assets\CarAI\Scripts\SaveSystem\Genome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveManager">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwoAAAAAQCAAAAAACAAAAAAAAAAQAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\CarAI\Scripts\SaveSystem\SaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarController">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYA6BAAAgAABBggQBAgIIAgAAoAAAAoBAQSAAEIAGE=</HashCode>
+      <FileName>Assets\CarAI\Scripts\CarController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clickable">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CarAI\Scripts\Clickable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Genetic">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAJAACgAAQEUABAACCIIAACgUAAgCEAAAAAAAQI=</HashCode>
+      <FileName>Assets\CarAI\Scripts\Genetic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAQAAgABIAYAAAACIAAAAAAAAAACQEAABEAAA=</HashCode>
+      <FileName>Assets\CarAI\Scripts\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeuralNet">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAIAICAAAAAAAABAAAAAAERAAAAAAAgAQBAIA=</HashCode>
+      <FileName>Assets\CarAI\Scripts\NeuralNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASwAEAAQAHBICAFAhACAAEAgYBAAMAAAAkAhABARCEI=</HashCode>
+      <FileName>Assets\CarAI\Scripts\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NNetVisualiser">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBQgDAjAAKEAACIABAAAxACCMwIAQAABRgCSAEAEIkA=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\AI Visualiser\NNetVisualiser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Background">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bird">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIASAAAAqAABBgEQRAgAIAAABgAAQAgBSAiAAEAAEE=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Columns">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAICAAAAQAAAACgQAEAEAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\Columns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticBird">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAJAACgAAQEUABAACCIIAACgUAAgCEAAAAAAAQI=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\GeneticBird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeuralNetBird">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAIAICAAAAAAAABAAAAAAERAAAAAAAgAQBAIA=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\NeuralNetBird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManagerBird">
+    <Position X="21.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAEAAAAAAAAAAAAAAACIAAEAAAAAAAEA=</HashCode>
+      <FileName>Assets\FlappyBirdAI\Scripts\UIManagerBird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuUI">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu\MainMenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
